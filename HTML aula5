@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width=devise-width, initial-scale=1.0">
+        <link rel="stylesheet" href="portifolio.css">
+        <title>Portifólio</title>
+    </head>
+
+    <body>
+        <header>
+                <h1>Portifólio</h1>     
+        </header>
+
+        <main>
+            <section>
+                <div>
+                    <h2>Nome: <span>Pedro Henrique Antunes Miranda</span></h2>
+                    <h3>E-mail: <span>pphmiranda221@gmail.com</span></h3>
+                    <h4>Curso: <span>Engenharia de software</span></h4>
+                        <img src="C:\Users\Aluno\Pictures\Saved Pictures\images.jfif" alt="Imagem indisponivel">
+                </div>
+                <div>
+                    <h4>Apresentação</h4>
+                    <p>O mais gosto de fazer é dormir e jogar video-game, as vezes, sonho que estou jogando e acordo
+                        triste pq todo o progresso feito no jogo foi imaginario.<br>
+                        Também gosto de estudar, opto por estudar coisas fora do meu ambito universitario,como
+                        fotografia e psicologia.<br>
+                        </p>
+                    
+                </div>
+            </section>
+        </main>
+                <footer>Instagram</footer>
+    </body>
+
+    </html>
